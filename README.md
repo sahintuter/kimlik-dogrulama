@@ -3,4 +3,4 @@ It is a system used to confirm the accuracy of transactions made with the Republ
 
 
 
-![alt text](https://raw.githubusercontent.com/sahintuter/Kimlik-Dogrulama/blob/main/KimlikDogrulama/KimlikDogrulama/ss.PNG)
+
